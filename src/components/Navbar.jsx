@@ -23,7 +23,7 @@ const Navbar = () => {
                 <div className="flex justify-between h-20 items-center">
                     {/* Logo */}
                     <Link to="/" className="flex items-center space-x-2" onClick={closeMenu}>
-                        <img src="/logo.png" alt="Rameshwar Car & Spare Parts" className="h-14 w-auto object-contain" />
+                        <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Rameshwar Car & Spare Parts" className="h-14 w-auto object-contain" />
                     </Link>
 
                     {/* Desktop Nav */}
