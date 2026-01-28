@@ -33,7 +33,7 @@ const ProductDetails = () => {
                     <div className="md:w-1/2 p-4 md:p-8 bg-gray-50 flex items-center justify-center">
                         <div className="relative rounded-lg overflow-hidden w-full h-80 md:h-96 shadow-sm">
                             <img
-                                src={product.image}
+                                src={product.image.startsWith('/') ? `${import.meta.env.BASE_URL}${product.image.slice(1)}` : product.image}
                                 alt={product.name}
                                 className="w-full h-full object-contain mix-blend-multiply"
                             />

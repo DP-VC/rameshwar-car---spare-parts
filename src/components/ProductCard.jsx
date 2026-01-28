@@ -7,7 +7,7 @@ const ProductCard = ({ product }) => {
         <div className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-100 flex flex-col h-full">
             <div className="h-48 overflow-hidden relative group">
                 <img
-                    src={product.image}
+                    src={product.image.startsWith('/') ? `${import.meta.env.BASE_URL}${product.image.slice(1)}` : product.image}
                     alt={product.name}
                     className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
                 />
