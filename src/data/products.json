@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Oil Filter",
+    "brand": "Maruti Suzuki",
+    "category": "Filters",
+    "image": "/oil-filter.jpg",
+    "description": "Genuine Oil Filter for Maruti Suzuki Swift, Baleno, and Dzire. Ensures clean oil circulation."
+  },
+  {
+    "id": 2,
+    "name": "Brake Pads (Front)",
+    "brand": "Hyundai",
+    "category": "Brake Parts",
+    "image": "/break-pads.jpg",
+    "description": "High-performance front brake pads for Hyundai Creta, i20, and Venue. Excellent stopping power."
+  },
+  {
+    "id": 3,
+    "name": "Shell Helix Ultra 5W-40",
+    "brand": "Shell",
+    "category": "Oils & Lubricants",
+    "image": "/shell-helix-ultra-5W-40.jpg",
+    "description": "Fully synthetic motor oil for ultimate engine performance and protection."
+  },
+  {
+    "id": 4,
+    "name": "Clutch Plate Assembly",
+    "brand": "Tata Motors",
+    "category": "Transmission",
+    "image": "/clutch-plate-assembly.jpg",
+    "description": "Original Tata clutch plate for Nexon, Harrier, and Altroz. Smooth gear shifting."
+  },
+  {
+    "id": 5,
+    "name": "Air Filter",
+    "brand": "Maruti Suzuki",
+    "category": "Filters",
+    "image": "/air-filter.jpg",
+    "description": "Genuine Air Filter for improved engine breathability and fuel efficiency."
+  },
+  {
+    "id": 6,
+    "name": "Spark Plug Set (4 pcs)",
+    "brand": "Hyundai",
+    "category": "Electrical Parts",
+    "image": "/spark-plug.jpg",
+    "description": "Set of 4 genuine spark plugs for Hyundai petrol engines (i10, i20, Verna). Reliable ignition."
+  },
+  {
+    "id": 7,
+    "name": "Suspension Strut (Front)",
+    "brand": "Maruti Suzuki",
+    "category": "Suspension Parts",
+    "image": "/suspension-strutjpg.jpg",
+    "description": "Front suspension strut for comfortable ride quality on uneven roads. Fits Swift/Dzire."
+  },
+  {
+    "id": 8,
+    "name": "Headlight Assembly",
+    "brand": "Tata Motors",
+    "category": "Electrical Parts",
+    "image": "/headlight-assembly.jpg",
+    "description": "Crystal clear headlight assembly for Tata Tiago. High visibility and perfect fitment."
+  },
+  {
+    "id": 10,
+    "name": "Timing Belt Kit",
+    "brand": "Maruti Suzuki",
+    "category": "Engine Parts",
+    "image": "/timing-belt-kit.jpg",
+    "description": "Complete timing belt kit including tensioner. Essential for engine maintenance."
+  },
+  {
+    "id": 11,
+    "name": "Fuel Filter (Diesel)",
+    "brand": "Hyundai",
+    "category": "Filters",
+    "image": "/fuel-filter-diesel.jpeg",
+    "description": "High-efficiency diesel fuel filter for Hyundai Creta and Verna diesel models."
+  },
+  {
+    "id": 12,
+    "name": "Disk Brake Rotor",
+    "brand": "Maruti Suzuki",
+    "category": "Brake Parts",
+    "image": "/disk-rotor-maruti.jpg",
+    "description": "Ventilated front disc brake rotor. targeted for Swift and Baleno for heat dissipation."
+  },
+  {
+    "id": 13,
+    "name": "Wiper Blade Set",
+    "brand": "Bosch",
+    "category": "Body Parts",
+    "image": "/wiper-blades.webp",
+    "description": "All-weather frameless wiper blades. Clean streak-free wiping for clear visibility."
+  },
+  {
+    "id": 14,
+    "name": "Coolant (1L)",
+    "brand": "Shell",
+    "category": "Oils & Lubricants",
+    "image": "/shell-coolant.jpg",
+    "description": "Premium concentrate coolant. Prevents overheating and corrosion."
+  },
+  {
+    "id": 15,
+    "name": "Side Mirror Assembly (LHS)",
+    "brand": "Maruti Suzuki",
+    "category": "Body Parts",
+    "image": "/side-mirror-lhs.jpg",
+    "description": "Electric adjustable side view mirror for Baleno (Left Side). Body colored cap compatible."
+  },
+  {
+    "id": 16,
+    "name": "Alternator Assembly",
+    "brand": "Tata Motors",
+    "category": "Electrical Parts",
+    "image": "/alternator-tata.jpg",
+    "description": "Heavy-duty alternator for Tata Nexon Diesel. Ensures consistent battery charging."
+  }
+]
